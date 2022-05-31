@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name solo-A-rescue)(type Legacy)(uri ${KIPRJMOD}/fido2-lpc55-rescue.lib)(options "")(descr ""))
+  (lib (name SE050)(type Legacy)(uri ${KIPRJMOD}/libraries/SE050.lib)(options "")(descr ""))
+  (lib (name fido2-lpc55-rescue)(type Legacy)(uri ${KIPRJMOD}/fido2-lpc55-rescue.lib)(options "")(descr ""))
+)
