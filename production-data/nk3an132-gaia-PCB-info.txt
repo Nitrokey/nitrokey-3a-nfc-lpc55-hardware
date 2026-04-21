@@ -1,0 +1,2 @@
+PCB thickness: 1.0 mm
+PCB color: green
